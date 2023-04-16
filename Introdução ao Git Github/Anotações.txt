@@ -1,0 +1,10 @@
+cria o repositorio 
+executa git add .
+
+em seguida  executa o comando commit
+
+git commit -m "anotação que quiser"
+
+para colocar no servido git 
+
+git push origin main
